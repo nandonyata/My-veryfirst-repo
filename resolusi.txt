@@ -1,4 +1,6 @@
 Resolusi saya untuk di masa yang akan datang
--Meyelesaikan Phase 0 hacktiv8
+-Meyelesaikan phase 0 hacktiv8
 -Mengerti dengan apa yang dipelajari
 -Mengikuti Bootcamp
+-Menyelesaikan week 1 phase 0
+-Mempelajari JS
